@@ -46,13 +46,6 @@ const var44 = 123;
 const var45 = 789
 
 
-const var46 = 456;
-const var47 = 123;
-const var48 = 789;
-const var49 = 456;
-const var50 = 123;
-const var51 = 789;
-
 const var52 = 456;
 
 const var53 = 123;
