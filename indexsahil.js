@@ -1,0 +1,1 @@
+console.log("Mobile version of the app is under development.");
