@@ -39,13 +39,16 @@ const var29 = 123;
 const var30 = 789;
 const var31 = 456;
 
-let var32 = 123;
-const var33 = 789;
-const var34 = 456;
-const var35 = 123;
-let var36 = 789;
-const var37 = 456;
-const var38 = 123;
-const var39 = 789;
-const var40 = 456;
 const var41 = 123;
+const var42 = 789;
+const var43 = 456;
+const var44 = 123;
+const var45 = 789
+
+
+const var46 = 456;
+const var47 = 123;
+const var48 = 789;
+const var49 = 456;
+const var50 = 123;
+const var51 = 789;
