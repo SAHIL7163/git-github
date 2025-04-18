@@ -22,3 +22,19 @@ const var16 = 123;
 const var17 = 789;
 const var18 = 456;
 const var19 = 123;
+
+
+const var20 = 456;
+const var21 = 123;
+const var22 = 789;
+const var23 = 456;
+const var24 = 123;
+
+
+const var25 = 789;
+const var26 = 456;
+const var27 = 123;
+const var28 = 456;
+const var29 = 123;
+const var30 = 789;
+const var31 = 456;
