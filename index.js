@@ -38,3 +38,14 @@ const var28 = 456;
 const var29 = 123;
 const var30 = 789;
 const var31 = 456;
+
+let var32 = 123;
+const var33 = 789;
+const var34 = 456;
+const var35 = 123;
+let var36 = 789;
+const var37 = 456;
+const var38 = 123;
+const var39 = 789;
+const var40 = 456;
+const var41 = 123;
